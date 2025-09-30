@@ -11,7 +11,7 @@ ased on 25 th september 2025 class lacture practice
 7. Write a program to calculate the simple interest.
 8. Write a program to calculate the area of a rectangle (length × breadth).
 9. Write a program to find the square and cube of a number.
-10. Write a program to swap two numbers using a temporary variable.
+
 
 ---
 
